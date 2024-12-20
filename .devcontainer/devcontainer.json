@@ -1,0 +1,5 @@
+{
+  "image": "ghcr.io/joedmck/devcontainer-features/cloudflared:1": {},
+  "features": {
+  }
+}
